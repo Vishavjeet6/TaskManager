@@ -4,5 +4,3 @@ routes
 db.js
 server.js
 write-db.js
-package-lock.json
-package.json

@@ -1,5 +1,4 @@
 node_modules
 public
 routes
-db.js
 server.js
